@@ -2,7 +2,7 @@
 
 # Painel de Contratos – ASCOM (ARTESP)
 
-MVP para gestão de contratos e pagamentos da comunicação – ARTESP.
+MVP para gestão de contratos e pagamentos da Comunicação – ARTESP.
 
 ## 🎯 Objetivo
 Centralizar o controle de:
